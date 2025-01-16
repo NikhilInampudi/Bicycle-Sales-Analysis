@@ -97,6 +97,9 @@ Based on the SQL queries and Tableau visualizations, actionable business insight
 
     -*SQL:* Used for complex queries, aggregations, and data extraction.
 
+    ![image_alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/b0c6950042b2a30c79ca9cc7ba6cd4eebdcafa5f/Database%20Diagram.png)
+    ![image_alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/b0c6950042b2a30c79ca9cc7ba6cd4eebdcafa5f/Database%20Tables.png)
+
 - **Data Import Process:**
 
     -CSV/Excel data was cleaned using SQL scripts to ensure consistency.
