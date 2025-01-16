@@ -20,6 +20,7 @@ was cleaned and transformed to fit the database schema before being imported int
 To extract valuable business insights, complex SQL queries were written to aggregate data, analyze trends, and identify key patterns. These queries included:
 
     - **Top 10 Customers by Order Value**
+       ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/019e3b56909ffdd590f6ad60e39ddda77e755416/SQLOutputs/Top%20Customers%20Output.png)
   
     - **Most Frequent Buying Customers**
   
