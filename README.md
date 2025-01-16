@@ -20,27 +20,47 @@ was cleaned and transformed to fit the database schema before being imported int
 To extract valuable business insights, complex SQL queries were written to aggregate data, analyze trends, and identify key patterns. These queries included:
 
     - **Top 10 Customers by Order Value**
-       ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/019e3b56909ffdd590f6ad60e39ddda77e755416/SQLOutputs/Top%20Customers%20Output.png)
+      
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/019e3b56909ffdd590f6ad60e39ddda77e755416/SQLOutputs/Top%20Customers%20Output.png)
   
     - **Most Frequent Buying Customers**
-  
-    - **Average Order Value by Order of United States**
-  
-    - **Most Popular Products**
-  
-    - **Products That Run Out of Stock**
-  
-    - **Most Profitable Store**
-  
-    - **Order Status Percentages**
-  
-    - **Product Demand Pattern in Year 2018**
-  
-    - **Top 3 Most Profitable Brands**
-  
-    - **Top Performing Product Categories**
 
-4. **Tableau for Data Visualization 📊:**
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Customer%20Buying%20Frequency%20Output.png)
+
+    - **Average Order Value by Order of United States**
+
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Average%20Order%20Value%20by%20State%20Output.png)
+    
+    - **Most Popular Products**
+
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Popular%20Products%20Output.png)
+    
+    - **Products That Run Out of Stock**
+
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Out%20of%20Stock%20Products%20Output.png)
+    
+    - **Most Profitable Store**
+   
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Store%20Profits%20Output.png)
+
+    - **Order Status Percentages**
+      
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Order%20Status%20Percentage%20Output.png)
+    
+    - **Product Demand Pattern in Year 2018**
+   
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Product%20Demand%202018%20Output.png)
+
+    - **Top 3 Most Profitable Brands**
+      
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Top%20Brands%20Output.png)
+    
+    - **Top Performing Product Categories**
+      
+    ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/e39c9a468379906dd632904abb41a9cc0187d4d7/SQLOutputs/Top%20Product%20Categories%20Output.png)
+
+
+5. **Tableau for Data Visualization 📊:**
 Tableau was used to create interactive, visually appealing dashboards that displayed crucial metrics of the database in an easily digestible format. Data transformation was also performed in Tableau to
 create calculated columns and make fields more usable for data analysis. All of the following data can be dynamically changed by utilizing the year filter in the dashboard. The following visualizations were created:
 
