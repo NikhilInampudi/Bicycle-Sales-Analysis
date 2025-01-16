@@ -73,7 +73,9 @@ create calculated columns and make fields more usable for data analysis. All of 
     - **Transpose Bar Chart: Most Popular Products**
   
     - **Geo Chart: Total Sales by State**
-  
+
+    ## Check out dashboard [here!](https://public.tableau.com/app/profile/nikhil.inampudi/viz/BikeSalesInsights_17369905740010/BicycleSalesDashboard). ◀️
+
 6. Business Insights and Recommendations 💸:
 Based on the SQL queries and Tableau visualizations, actionable business insights were derived. These included:
 
