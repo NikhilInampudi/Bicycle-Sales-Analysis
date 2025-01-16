@@ -19,6 +19,8 @@ was cleaned and transformed to fit the database schema before being imported int
 3. **SQL Queries for Insights 👀:**
 To extract valuable business insights, complex SQL queries were written to aggregate data, analyze trends, and identify key patterns. These queries included:
 
+    [Link to Queries](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/0b21379f0fa1037ad69cae165549b0e02d400624/Bicycle%20Sales%20Insights.sql)
+
     - **Top 10 Customers by Order Value**
       
     ![image alt](https://github.com/NikhilInampudi/Bicycle-Sales-Analysis/blob/019e3b56909ffdd590f6ad60e39ddda77e755416/SQLOutputs/Top%20Customers%20Output.png)
